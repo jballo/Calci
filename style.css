@@ -1,0 +1,39 @@
+* {
+    background-color: teal;
+    margin: 0;
+}
+
+
+.calcBody{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    background-color: aliceblue;
+    border-style: dashed;
+    /* color: antiquewhite; */
+}
+
+.NumPad{
+    display: flex;
+    flex-direction: column;
+}
+
+.rowOne{
+    display: flex;
+    flex-direction: row;
+}
+
+.button{
+    background-color: aliceblue;
+    outline: 0;
+}
+
+/* .calcBody .Header {
+    background-color: aliceblue;
+} */
+
+/* .calcBody .Total{ */
+    /* background-color: aliceblue; */
+/* } */
